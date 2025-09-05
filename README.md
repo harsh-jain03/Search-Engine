@@ -1,7 +1,7 @@
 
-# CodeQuest Search Engine
+# Search Engine
 
-Welcome to the CodeQuest: Search Engine repository! This project provides a web application that allows users to search for coding questions from LeetCode (LC). Currently, it only supports LeetCode, but can be extended to different platforms in the future.
+Welcome to the Search Engine repository! This project provides a web application that allows users to search for coding questions from LeetCode (LC). Currently, it only supports LeetCode, but can be extended to different platforms in the future.
 
 ## Prerequisite
 
