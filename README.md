@@ -38,7 +38,3 @@ Start the server
 ```bash
   flask --app app run
 ```
-
-#### Website deployed at : <a href="https://tf-idf-q-finder.onrender.com/">CodeQuest</a>
-
-## Feel free to explore, utilize and contribute to CodeQuest!
